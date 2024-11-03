@@ -2,6 +2,8 @@
 
 This simple script listens for ntfy notifications and displays them as desktop notifications on Linux. It is intended to be run as a systemd service in the background.
 
+![Screenshot from 2024-11-03 21-55-33](https://github.com/user-attachments/assets/ac9677f4-2b7b-4a5a-ab07-75de730264ec)
+
 ## Prequisites
 
 Ensure you have `curl`, `jq`, and `notify-send` installed on your system.
