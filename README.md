@@ -1,4 +1,4 @@
-# ntfy.sh Listener Service for Linux
+# ntfy.sh listener service for Linux
 
 This simple script listens for ntfy notifications and displays them as desktop notifications on Linux. It is intended to be run as a systemd service in the background.
 
