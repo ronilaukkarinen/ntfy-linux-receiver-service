@@ -16,7 +16,7 @@ wget -O /path/to/ntfy.png https://docs.ntfy.sh/static/img/ntfy.png
 
 Replace /path/to/ntfy.png in the script with the actual path where you saved the logo image.
 
-Make the script executable
+Save the script and make it as executable.
 
 ```bash
 sudo chmod +x /usr/local/bin/ntfy-listener.sh
